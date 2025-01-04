@@ -1,0 +1,17 @@
+#Sat Jan 04 14:30:55 CET 2025
+bluej.teamsettings.ignore1=.*\\.class
+bluej.teamsettings.yourName=alexandre-bonnet
+bluej.teamsettings.git.server=github.com
+bluej.teamsettings.yourEmail=alexandre.bonnet@edu.esiee.fr
+bluej.teamsettings.git.repositoryPrefix=/alexandre-bonnet/Zuul-decent
+bluej.teamsettings.vcs=git
+bluej.teamsettings.user=alexandre-bonnet
+bluej.teamsettings.ignore3=team\\.defs
+bluej.teamsettings.ignore2=bluej\\.pkh
+bluej.teamsettings.ignore5=.*\\~
+bluej.teamsettings.git.branch=
+bluej.teamsettings.ignore4=.*\\.ctxt
+bluej.teamsettings.ignore7=.*\\\#backup
+bluej.teamsettings.ignore6=.*\\\#
+bluej.teamsettings.git.protocol=https
+bluej.teamsettings.ignore8=\\.DS_Store

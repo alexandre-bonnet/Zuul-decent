@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ Classe\ Game\ -\ le\ moteur\ du\ jeu\ d'aventure\ Zuul.\r\n\r\n\ @author\ Alexandre_Bonnet\r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Create\ the\ game\ and\ initialise\ its\ internal\ map.\ Create\ the\ inerface\ and\ link\ to\ it.\r\n
+numComments=2

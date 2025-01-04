@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Character\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=pName\ pDialog\ pMinigame
+comment1.target=Character(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Item.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ gets\ the\ name\ of\ the\ character\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDialog()
+comment3.text=\r\n\ gets\ the\ dialog\ of\ the\ character\r\n
+comment4.params=
+comment4.target=java.lang.String\ getMinigame()
+comment4.text=\r\n\ gets\ the\ miniGame\ of\ the\ character\r\n
+numComments=5

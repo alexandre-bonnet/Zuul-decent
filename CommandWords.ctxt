@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CommandWords
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ CommandWords\ ici.\r\n\r\n\ @author\ Alexandre_Bonnet\r\n
+comment1.params=pString
+comment1.target=boolean\ isCommand(java.lang.String)
+comment1.text=\r\n\ on\ compare\ le\ mot\ entr\u00E9\ et\ le\ tableau\r\n\ afin\ de\ savoir\ si\ la\ commande\ est\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCommandList()
+comment2.text=\r\n\ returns\ a\ String\ list\ of\ valid\ commands\r\n
+numComments=3
